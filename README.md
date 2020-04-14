@@ -1,4 +1,4 @@
-# pinyinshurufa
+# 拼音输入法
 人工智能导论课程作业
 
 [TOC]
